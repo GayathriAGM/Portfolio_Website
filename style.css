@@ -1,0 +1,130 @@
+*{
+
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: 10px;
+  }
+  .section-one{
+    background-color: #f71686;
+    text-align: center;
+    padding: 20px;
+  }
+  .section-one__title{
+    font-size: 35px;
+    color: #e0cb2f;
+  }
+  .section-one__role{
+    font-size: 20px;
+  }
+  .section-one__contact__contact{
+    text-decoration:none;
+    background-color: #e0cb2f;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  .section-one__contact__home{
+    text-decoration:none;
+    background-color: #e0cb2f;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  
+  .section-one__contact__contact a{
+    text-decoration: none;
+  }
+  .section-one__contact__contact:hover{
+    background-color: white;
+    
+  }
+  .section-one__contact__home a{
+    text-decoration: none;
+  }
+  .section-one__contact__home:hover{
+    background-color: white;
+    
+  }
+  .section-two p{
+    text-align: justify;
+    font-size: 18px;
+   
+  }
+  .section-three{
+    padding:10px;
+    display: inline-block;
+  }
+  .section-three h2{
+    color:#e0cb2f;
+  }
+  .section-three h4{
+    font-style: oblique;
+  }
+  .section-three ul{
+    padding-bottom: 20px;
+  }
+  .section-four{
+    display:inline-block;
+    background-color:#ede1e1;
+    padding: 40px;
+    border-radius: 10px;
+  }
+  .section-four h2{
+    font-size: 30px;
+    color: #f71686;
+  }
+  .section-four li::marker{
+    color:#e0cb2f;
+  }
+  .list::marker{
+    color:#e0cb2f;
+  }
+  .section-five{
+    background-color: #f71686;
+    padding:25px;
+    display:block;
+    text-align: center;
+    border-radius: 20px;
+ 
+  }
+  .section-five a{
+    text-decoration: none;
+    color:white;
+    padding: 20px;
+  
+  }
+  .section-five a:hover{
+    color:#e0cb2f;
+  }
+  .section-five h4{
+    font-size:25px;
+    color: #e0cb2f;
+    padding: 20px;
+  }
+  .section-five p{
+    font-style: oblique;
+    padding-top: 30px;
+    color:#e0cb2f;
+  }
+  .contact-form{
+    padding: 20px;
+    
+  }
+  .contact-form__name,.contact-form__mail{
+    border:none;
+    border-bottom: 1px solid #000;
+    padding: 10px;
+  }
+  .contact-form__message{
+    border:1px solid #000;
+    padding: 10px;
+  }
+ .contact-form__submit{
+    background-color: #e0cb2f;
+    border: none;
+    padding: 12px;
+    border-radius: 6px;
+   
+ }
+ 
