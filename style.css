@@ -6,27 +6,27 @@
     margin: 10px;
   }
   .section-one{
-    background-color: #f71686;
+    background-color: #B576AD;
     text-align: center;
     padding: 20px;
   }
   .section-one__title{
     font-size: 35px;
-    color: #e0cb2f;
+    color: #fff;
   }
   .section-one__role{
     font-size: 20px;
   }
   .section-one__contact__contact{
     text-decoration:none;
-    background-color: #e0cb2f;
+    background-color: #ffcccc;
     display: inline-block;
     padding: 10px;
     border-radius: 10px;
   }
   .section-one__contact__home{
     text-decoration:none;
-    background-color: #e0cb2f;
+    background-color: #ffcccc;
     display: inline-block;
     padding: 10px;
     border-radius: 10px;
@@ -56,7 +56,7 @@
     display: inline-block;
   }
   .section-three h2{
-    color:#e0cb2f;
+    color:#ffcccc;
   }
   .section-three h4{
     font-style: oblique;
@@ -72,16 +72,16 @@
   }
   .section-four h2{
     font-size: 30px;
-    color: #f71686;
+    color: #B576AD;
   }
   .section-four li::marker{
-    color:#e0cb2f;
+    color:#ffcccc;
   }
   .list::marker{
-    color:#e0cb2f;
+    color:#ffcccc;
   }
   .section-five{
-    background-color: #f71686;
+    background-color: #B576AD;
     padding:25px;
     display:block;
     text-align: center;
@@ -95,17 +95,17 @@
   
   }
   .section-five a:hover{
-    color:#e0cb2f;
+    color:#ffcccc;
   }
   .section-five h4{
     font-size:25px;
-    color: #e0cb2f;
+    color: #fff;
     padding: 20px;
   }
   .section-five p{
     font-style: oblique;
     padding-top: 30px;
-    color:#e0cb2f;
+    color:#ffcccc;
   }
   .contact-form{
     padding: 20px;
@@ -121,7 +121,7 @@
     padding: 10px;
   }
  .contact-form__submit{
-    background-color: #e0cb2f;
+    background-color: #ffcccc;
     border: none;
     padding: 12px;
     border-radius: 6px;
